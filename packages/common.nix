@@ -17,5 +17,6 @@
     git
     killall
     neofetch
+    wget
   ];
 }

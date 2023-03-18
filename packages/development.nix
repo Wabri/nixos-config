@@ -14,6 +14,8 @@
     # Tools
     tree-sitter
     clang
+    cargo
+    gnumake
 
     # Cli
     delta
